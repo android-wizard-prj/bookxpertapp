@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BookXpertApplication</string>
+    <string name="default_web_client_id">596336433137-qimo3h2t2fbgr40fusboi5b9mn0117qp.apps.googleusercontent.com</string>
+    <string name="title_activity_pdf_opener">PdfOpenerActivity</string>
+    <string name="title_activity_product_list_screen">ProductListScreen</string>
+</resources>
