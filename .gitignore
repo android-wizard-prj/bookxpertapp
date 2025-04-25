@@ -15,5 +15,5 @@
 local.properties
 
 # Firebase credentials
-**/bookxpertapplication-service-account.json
+**/services-account.json
 *.json
